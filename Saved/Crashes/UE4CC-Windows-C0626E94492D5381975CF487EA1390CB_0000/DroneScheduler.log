@@ -1,0 +1,847 @@
+﻿Log file open, 06/06/20 22:20:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DroneScheduler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.062421
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=YushiHattori -epicuserid=fe3dd1f880434720be12ab63a96a296e -epiclocale=en
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.07-03.20.50:237][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.07-03.20.50:238][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.07-03.20.50:238][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.07-03.20.50:238][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:238][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:241][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-03.20.50:241][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-03.20.50:242][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-03.20.50:242][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-03.20.50:242][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.07-03.20.50:244][  0]LogHAL: Display: Platform has ~ 16 GB [17127096320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.07-03.20.50:244][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.07-03.20.50:245][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Scalability.ini]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.07-03.20.50:246][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Documents/Unreal Projects/DroneScheduler/Saved/Config/Windows/Engine.ini]
+[2020.06.07-03.20.50:246][  0]LogInit: Computer: DESKTOP-EQLCNCF
+[2020.06.07-03.20.50:246][  0]LogInit: User: Yushi
+[2020.06.07-03.20.50:246][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.07-03.20.50:246][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.07-03.20.50:246][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.07-03.20.50:246][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.07-03.20.50:246][  0]LogMemory: Process Physical Memory: 106.52 MB used, 106.53 MB peak
+[2020.06.07-03.20.50:246][  0]LogMemory: Process Virtual Memory: 108.15 MB used, 108.15 MB peak
+[2020.06.07-03.20.50:246][  0]LogMemory: Physical Memory: 6737.28 MB used,  9596.39 MB free, 16333.67 MB total
+[2020.06.07-03.20.50:246][  0]LogMemory: Virtual Memory: 4724.04 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2020.06.07-03.20.50:248][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.07-03.20.50:268][  0]LogInit: Using OS detected language (en-US).
+[2020.06.07-03.20.50:268][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.07-03.20.50:268][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.07-03.20.50:424][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.07-03.20.50:470][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.07-03.20.50:470][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.07-03.20.50:623][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.07-03.20.50:689][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.06.07-03.20.50:689][  0]LogD3D11RHI:       11127/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.07-03.20.50:691][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.07-03.20.50:691][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.07-03.20.50:691][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.07-03.20.50:699][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.07-03.20.50:699][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.07-03.20.50:699][  0]LogWindows: EnumDisplayDevices:
+[2020.06.07-03.20.50:699][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.06.07-03.20.50:700][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.06.07-03.20.50:700][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.06.07-03.20.50:700][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.06.07-03.20.50:700][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.07-03.20.50:700][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.06.07-03.20.50:700][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.06.07-03.20.50:700][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.06.07-03.20.50:700][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.06.07-03.20.50:753][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.07-03.20.50:769][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.07-03.20.51:034][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.07-03.20.51:042][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.07-03.20.51:051][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.07-03.20.51:058][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.07-03.20.51:067][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.07-03.20.51:074][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.07-03.20.51:082][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.07-03.20.51:093][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.07-03.20.51:097][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.07-03.20.51:127][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.07-03.20.51:129][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.07-03.20.51:144][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.07-03.20.51:144][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.07-03.20.51:157][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.07-03.20.51:157][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.07-03.20.51:164][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.07-03.20.51:171][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.07-03.20.51:178][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.07-03.20.51:185][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.07-03.20.51:208][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.07-03.20.51:208][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.07-03.20.51:208][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.07-03.20.51:216][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.07-03.20.51:254][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (E:/Documents/Unreal Projects/DroneScheduler/Intermediate/Shaders/WorkingDirectory/16112/).
+[2020.06.07-03.20.51:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Yushi/AppData/Local/Temp/UnrealShaderWorkingDir/0554AB3C44B56771468C25823F51F815/'.
+[2020.06.07-03.20.51:256][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.07-03.20.51:256][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.07-03.20.51:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.07-03.20.51:846][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Documents/Unreal Projects/DroneScheduler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-03.20.51:885][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.07-03.20.51:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.07-03.20.51:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.07-03.20.51:898][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.07-03.20.51:899][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Yushi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.07-03.20.51:899][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.07-03.20.51:899][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.07-03.20.51:920][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.07-03.20.51:923][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.07-03.20.51:923][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.07-03.20.51:972][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.06.07-03.20.52:219][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.07-03.20.52:346][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.07-03.20.52:346][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.07-03.20.52:346][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.07-03.20.52:346][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.07-03.20.52:346][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.07-03.20.52:354][  0]LogNetVersion: DroneScheduler 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2147798710)
+[2020.06.07-03.20.52:740][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.062239 seconds
+[2020.06.07-03.20.52:748][  0]LogUObjectArray: 43197 objects as part of root set at end of initial load.
+[2020.06.07-03.20.52:748][  0]LogUObjectAllocator: 7508232 out of 0 bytes used by permanent object pool.
+[2020.06.07-03.20.52:748][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.07-03.20.53:472][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.07-03.20.53:475][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.07-03.20.53:623][  0]SourceControl: Source control is disabled
+[2020.06.07-03.20.53:896][  0]LogSourceControl: Warning: 'E:/Documents/Unreal Projects/DroneScheduler/' is not part of a Git repository
+[2020.06.07-03.20.54:095][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.07-03.20.54:234][  0]LogOcInput: OculusInput pre-init called
+[2020.06.07-03.20.56:165][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Content/Scripts
+[2020.06.07-03.20.56:165][  0]LogPython: Python Scripts search path: E:/Documents/Unreal Projects/DroneScheduler/Plugins/UnrealEnginePython
+[2020.06.07-03.20.56:165][  0]LogPython: Python VM initialized: 3.6.7 (v3.6.7:6ec5cf24b7, Oct 20 2018, 13:35:33) [MSC v.1900 64 bit (AMD64)]
+[2020.06.07-03.20.56:167][  0]LogPython: ue_site Python module not found
+[2020.06.07-03.20.57:005][  0]LogEngine: Initializing Engine...
+[2020.06.07-03.20.57:006][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.07-03.20.57:208][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.07-03.20.57:227][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.07-03.20.57:248][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.07-03.20.57:268][  0]LogInit: FAudioDevice initialized.
+[2020.06.07-03.20.57:268][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.07-03.20.58:075][  0]LogDerivedDataCache: Saved boot cache 0.81s 76MB C:/Users/Yushi/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.07-03.20.58:081][  0]LogInit: Texture streaming: Enabled
+[2020.06.07-03.20.58:096][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.07-03.20.58:096][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.07-03.20.58:096][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.07-03.20.58:180][  0]LogInit: Transaction tracking system initialized
+[2020.06.07-03.20.58:203][  0]BlueprintLog: New page: Editor Load
+[2020.06.07-03.20.58:258][  0]LocalizationService: Localization service is disabled
+[2020.06.07-03.20.58:503][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/' took 0.02s
+[2020.06.07-03.20.58:503][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.07-03.20.58:503][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.07-03.20.58:658][  0]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-03.20.58:658][  0]LightingResults: New page: Lighting Build
+[2020.06.07-03.20.58:660][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.20.58:660][  0]MapCheck: New page: Map Check
+[2020.06.07-03.20.58:660][  0]LightingResults: New page: Lighting Build
+[2020.06.07-03.20.58:692][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.07-03.20.59:659][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.20.59:659][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.07-03.20.59:660][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.20.59:660][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.07-03.20.59:757][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.20.59:757][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.07-03.20.59:757][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/Objects/Helipad/Helipad_BP.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.20.59:757][  0]LoadErrors: Failed to load /Game/Objects/ControlTower/RequesterInfo.RequesterInfo Referenced by K2Node_MakeStruct_RequesterInfo
+[2020.06.07-03.21.02:116][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:116][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:116][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:116][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:117][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:117][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.07-03.21.02:117][  0]LogLinker: Warning: While loading 'E:/Documents/Unreal Projects/DroneScheduler/Content/MapBase/MapBase.uasset' failed to load '/Game/Assets/Downtown/Meshes/BG_Building_A': Can't find file.
+[2020.06.07-03.21.02:117][  0]LoadErrors: Failed to load /Game/Assets/Downtown/Meshes/BG_Building_A.BG_Building_A Referenced by BG_Building_A_GEN_VARIABLE
+[2020.06.07-03.21.05:897][  0]LogMaterial: Display: Missing cached shader map for material helipad_Mat, compiling. 
+[2020.06.07-03.21.05:898][  0]LogMaterial: Warning: E:\Documents\Unreal Projects\DroneScheduler\Content\Objects\Helipad\helipad_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.07-03.21.05:898][  0]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.07-03.21.11:119][  0]LogAIModule: Creating AISystem for world TowerMap
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:125][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:126][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:126][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:127][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:127][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:128][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:128][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:129][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:130][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:131][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:131][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.11:132][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.21.11:133][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-03.21.11:169][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.06.07-03.21.11:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-03.21.11:169][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2020.06.07-03.21.11:170][  0]LogFileHelpers: Loading map 'TowerMap' took 12.512
+[2020.06.07-03.21.11:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-03.21.11:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-03.21.11:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-03.21.11:359][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.07-03.21.11:368][  0]LogCollectionManager: Loaded 0 collections in 0.001028 seconds
+[2020.06.07-03.21.11:377][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.06.07-03.21.11:386][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2885 classes and 688 folders.
+[2020.06.07-03.21.11:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-03.21.11:694][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Saved/Collections/' took 0.03s
+[2020.06.07-03.21.11:694][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Developers/Yushi/Collections/' took 0.05s
+[2020.06.07-03.21.11:694][  0]LogFileCache: Scanning file cache for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/Collections/' took 0.05s
+[2020.06.07-03.21.11:694][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-03.21.11:721][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.07-03.21.11:772][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.07-03.21.11:774][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.07-03.21.11:786][  0]LogSlate: Took 0.006522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.07-03.21.11:793][  0]LogSlate: Took 0.007004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.06.07-03.21.11:958][  0]LogRenderer: Reallocating scene render targets to support 1024x540 Format 10 NumSamples 1 (Frame:1).
+[2020.06.07-03.21.12:089][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.07-03.21.12:089][  0]LogLoad: (Engine Initialization) Total time: 23.71 seconds
+[2020.06.07-03.21.12:090][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.07-03.21.12:147][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.07-03.21.12:149][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.21.12:173][  1]LogRenderer: Reallocating scene render targets to support 1024x560 Format 10 NumSamples 1 (Frame:2).
+[2020.06.07-03.21.12:174][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Documents/Unreal Projects/DroneScheduler/Content/' took 0.07s
+[2020.06.07-03.21.12:255][  2]LogAssetRegistry: Asset discovery search completed in 20.2847 seconds
+[2020.06.07-03.21.12:259][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.06.07-03.21.12:259][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000214 seconds (updated 0 objects)
+[2020.06.07-03.21.13:136][100]LogSlate: Took 0.005808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-03.21.13:151][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VTOL/VTOL_BP.VTOL_BP
+[2020.06.07-03.21.13:491][100]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.06.07-03.21.14:443][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MapBase/MapBase.MapBase
+[2020.06.07-03.21.16:163][100]LogSlate: Took 0.004885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.07-03.21.16:567][101]LogSlate: Took 0.005133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.07-03.21.58:954][976]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Objects/ControlTower/ControlTowerBP2.ControlTowerBP2
+[2020.06.07-03.21.59:331][976]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.21.59:332][976]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.22.12:091][386]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D82EBED0-4D21-F4B4-AB1F-B595D5A48CAA}
+[2020.06.07-03.22.19:428][202]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Objects/ControlTower/ControlTower.ControlTower
+[2020.06.07-03.22.23:194][525]LogRenderer: Reallocating scene render targets to support 1432x912 Format 10 NumSamples 1 (Frame:300).
+[2020.06.07-03.22.32:120][ 55]LogSlate: Window 'VTOL_BP' being destroyed
+[2020.06.07-03.22.38:351][598]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1140).
+[2020.06.07-03.23.20:804][334]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Objects/ControlTower/RequesterInfo.RequesterInfo
+[2020.06.07-03.23.39:705][585]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.24.08:168][897]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.24.08:957][976]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.07-03.24.08:957][976]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.24.09:828][ 60]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.07-03.24.09:828][ 60]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.24.12:579][381]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.12:803][407]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.13:041][435]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.13:374][474]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.13:395][476]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.13:759][519]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.24.20:112][ 80]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-03.24.20:114][ 80]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-03.31.12:548][178]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={7F2FD515-40EF-A68A-E2BC-AA90563BD90F}
+[2020.06.07-03.51.43:883][ 55]LogRenderer: Reallocating scene render targets to support 1668x920 Format 10 NumSamples 1 (Frame:8051).
+[2020.06.07-03.51.43:910][ 56]LogRenderer: Reallocating scene render targets to support 1752x952 Format 10 NumSamples 1 (Frame:8053).
+[2020.06.07-03.51.43:934][ 57]LogRenderer: Reallocating scene render targets to support 1864x1012 Format 10 NumSamples 1 (Frame:8055).
+[2020.06.07-03.51.43:961][ 58]LogRenderer: Reallocating scene render targets to support 1912x1036 Format 10 NumSamples 1 (Frame:8057).
+[2020.06.07-03.51.43:999][ 59]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:8059).
+[2020.06.07-03.51.44:016][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.51.47:259][440]Cmd: SELECT NONE
+[2020.06.07-03.51.48:147][532]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.51.48:921][624]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.07-03.51.53:134][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-03.51.53:230][138]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-03.51.59:587][757]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.06.07-03.52.18:735][716]LogAIModule: Creating AISystem for world RealTerrainMap
+[2020.06.07-03.52.22:495][146]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.07-03.52.23:489][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-03.52.23:615][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.06.07-03.52.23:910][261]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMapC559AB3C42B1919B6D694F87E91E0A08.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap.umap'
+[2020.06.07-03.52.23:984][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerMap_BuiltData" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset" SILENT=true
+[2020.06.07-03.52.24:101][261]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/TowerMap_BuiltData7BB5493A4F3B8359B95E39A41EAADC3C.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/TowerMap_BuiltData.uasset'
+[2020.06.07-03.52.27:241][629]LogAssetEditorManager: Opening Asset editor for World /Game/RealTerrainMap.RealTerrainMap
+[2020.06.07-03.52.27:311][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.06.07-03.52.27:312][629]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-03.52.27:312][629]LightingResults: New page: Lighting Build
+[2020.06.07-03.52.27:313][629]LoadErrors: New page: Loading map: RealTerrainMap.umap
+[2020.06.07-03.52.27:313][629]LogWorld: UWorld::CleanupWorld for TowerMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-03.52.27:313][629]MapCheck: New page: Map Check
+[2020.06.07-03.52.27:314][629]LightingResults: New page: Lighting Build
+[2020.06.07-03.52.27:347][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.06.07-03.52.27:348][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:349][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:350][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:351][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:351][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:352][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:352][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:352][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:353][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:353][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:353][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:353][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:354][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:354][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:354][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:354][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:355][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:355][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:355][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:355][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:356][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:356][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:356][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:356][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:357][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:357][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:357][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:357][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:357][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:358][629]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-03.52.27:358][629]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-03.52.27:359][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-03.52.27:394][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.06.07-03.52.27:456][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-03.52.27:456][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2020.06.07-03.52.27:457][629]LogFileHelpers: Loading map 'RealTerrainMap' took 0.146
+[2020.06.07-03.52.33:541][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.52.52:050][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map)
+[2020.06.07-03.52.52:101][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.52.56:105][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.59.06:495][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map)
+[2020.06.07-03.59.07:493][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.07-03.59.08:510][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-05.38.31:478][303]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={9E673DD6-4873-A12F-3DF1-5AA451450119}
+[2020.06.07-06.02.56:236][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-06.02.56:459][219]LogAssetEditorManager: Opening Asset editor for World /Game/RealTerrainMap.RealTerrainMap
+[2020.06.07-06.02.56:763][219]LogUObjectHash: Compacting FUObjectHashTables data took  24.83ms
+[2020.06.07-06.02.56:871][219]Cmd: MAP LOAD FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-06.02.56:877][219]LightingResults: New page: Lighting Build
+[2020.06.07-06.02.56:885][219]LoadErrors: New page: Loading map: RealTerrainMap.umap
+[2020.06.07-06.02.56:916][219]LogWorld: UWorld::CleanupWorld for RealTerrainMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-06.02.56:932][219]MapCheck: New page: Map Check
+[2020.06.07-06.02.56:934][219]LightingResults: New page: Lighting Build
+[2020.06.07-06.02.57:042][219]LogUObjectHash: Compacting FUObjectHashTables data took  11.75ms
+[2020.06.07-06.02.57:285][219]LogAIModule: Creating AISystem for world RealTerrainMap
+[2020.06.07-06.02.57:296][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:296][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:297][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:297][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:297][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:298][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:298][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:298][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:299][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:299][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:299][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:300][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:300][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:300][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:306][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:307][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:307][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:307][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:308][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:308][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:308][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:308][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:309][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:309][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:309][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:309][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:310][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:310][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:310][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:310][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:311][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:311][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:311][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:312][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:312][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:312][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:312][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:312][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:313][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:313][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:313][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2020.06.07-06.02.57:313][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.06.07-06.02.57:401][219]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-06.02.57:444][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.07-06.02.57:537][219]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-06.02.57:539][219]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.414ms to complete.
+[2020.06.07-06.02.57:541][219]LogFileHelpers: Loading map 'RealTerrainMap' took 0.703
+[2020.06.07-06.03.01:847][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-06.03.06:577][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Map)
+[2020.06.07-06.03.08:311][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-06.03.15:850][485]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Desktop\Projects\Maps\MapWithBuildings\MapModel.fbx)
+[2020.06.07-06.03.15:960][485]LogFbx: Loading FBX Scene from E:\Desktop\Projects\Maps\MapWithBuildings\MapModel.fbx
+[2020.06.07-06.03.16:941][485]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.07-06.03.52:239][485]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.07-06.03.52:546][485]LogLinker: Failed to load '/Game/Objects/ImportedFbx/Map2/GOOGLE_SAT_WM': Can't find file.
+[2020.06.07-06.03.52:547][485]LogLinker: Failed to load '/Game/Objects/ImportedFbx/Map2/GOOGLE_SAT_WM': Can't find file.
+[2020.06.07-06.03.59:020][485]Error: Texture import failed
+[2020.06.07-06.03.59:139][485]LogMaterial: Display: Missing cached shader map for material rastMat, compiling. 
+[2020.06.07-06.03.59:219][485]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.06.07-06.03.59:219][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.06.07-06.03.59:219][485]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.07-06.03.59:219][485]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.06.07-06.03.59:220][485]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.06.07-06.03.59:220][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.07-06.03.59:220][485]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.06.07-06.03.59:220][485]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.07-06.03.59:247][485]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.06.07-06.03.59:269][485]LogFbx: Display: Triangulating static mesh EXPORT_GOOGLE_SAT_WM
+[2020.06.07-06.04.41:204][485]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.06.07-06.04.41:205][485]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.06.07-06.04.41:206][485]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.07-06.04.41:206][485]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.06.07-06.04.41:206][485]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.07-06.04.41:207][485]LogStaticMesh: Building static mesh MapModel...
+[2020.06.07-06.04.50:029][485]LogStaticMesh: Built static mesh [8.82s] /Game/Objects/ImportedFbx/Map2/MapModel.MapModel
+[2020.06.07-06.04.57:742][485]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.07-06.05.17:974][266]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-06.05.17:976][266]LogSlate: Window 'Message Log' being destroyed
+[2020.06.07-06.05.18:640][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RealTerrainMap" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.07-06.05.18:774][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.06.07-06.05.19:378][344]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/RealTerrainMap038E002F42D468A23C4E40919A9D98CA.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap.umap'
+[2020.06.07-06.05.19:480][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RealTerrainMap_BuiltData" FILE="E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap_BuiltData.uasset" SILENT=true
+[2020.06.07-06.05.19:657][344]LogSavePackage: Moving 'E:/Documents/Unreal Projects/DroneScheduler/Saved/RealTerrainMap_BuiltDataDBD0AC3D465320AB42E861B0E9378EFC.tmp' to 'E:/Documents/Unreal Projects/DroneScheduler/Content/RealTerrainMap_BuiltData.uasset'
+[2020.06.07-06.05.21:863][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.07-06.05.25:008][881]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Desktop\Projects\Maps\MapWithBuildings\TownModel.fbx)
+[2020.06.07-06.05.25:122][881]LogFbx: Loading FBX Scene from E:\Desktop\Projects\Maps\MapWithBuildings\TownModel.fbx
+[2020.06.07-06.05.26:016][881]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.07-06.05.28:002][881]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.07-06.05.28:164][881]LogFbx: Display: Triangulating static mesh Areas
+[2020.06.07-06.07.25:862][881]LogStaticMesh: Building static mesh TownModel...
+[2020.06.07-06.07.53:708][881]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2020.06.07-06.07.53:713][881]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 1043992576
+	 AvailableVirtual 140715882926080
+	     UsedPhysical 8436264960
+	 PeakUsedPhysical 9687932928
+	      UsedVirtual 15274991616
+	  PeakUsedVirtual 15582699520
+[2020.06.07-06.07.53:714][881]Allocator Stats for TBB: (not implemented)
+[2020.06.07-06.07.53:715][881]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.07-06.07.53:716][881]LogWindows: Windows GetLastError: The operation completed successfully. (0)
