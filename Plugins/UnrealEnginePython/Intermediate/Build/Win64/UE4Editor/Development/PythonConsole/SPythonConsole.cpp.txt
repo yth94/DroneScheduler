@@ -1,0 +1,289 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonConsole\Definitions.PythonConsole.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythonconsole\private\SPythonConsole.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime/SlateCore/Public/SlateCore.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Core.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformStackWalk.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/PlatformStackWalk.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformStackWalk.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/PlatformFile.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/PlatformAffinity.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformAffinity.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/StringUtility.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/MRUArray.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/TransArray.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/Runnable.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/RunnableThread.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/SingleThreadRunnable.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/ThreadManager.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/FileHelper.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/StaticBitArray.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/MapBuilder.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/ThreadingBase.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Internationalization/Culture.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\HAL/OutputDevices.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Stats/StatsMisc.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/TimeGuard.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/BufferArchive.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayReader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Serialization/BufferWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/WildcardString.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/CircularBuffer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Containers/CircularQueue.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ProfilingHelpers.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/SlowTaskStack.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/FeedbackContext.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/AutomationTest.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Async/Async.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Internationalization/Regex.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/CallbackDevice.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/MetaData.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/UObjectThreadContext.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ConstructorHelpers.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\InputCore\Public\InputCore.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\inputcore\public\InputCoreModule.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Animation/SlateSprings.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Sound/ISlateSoundDevice.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Sound/NullSlateSoundDevice.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Textures/SlateUpdatableTexture.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Fonts/FontBulkData.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Fonts/FontMeasure.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Brushes/SlateBorderBrush.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Brushes/SlateBoxBrush.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Brushes/SlateColorBrush.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Brushes/SlateImageBrush.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Styling/SlateStyleRegistry.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Styling/SlateStyle.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Types/NavigationMetaData.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Rendering/RenderingPolicy.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Rendering/SlateDrawBuffer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slatecore\public\Widgets/SUserWidget.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Editor\EditorStyle\Public\EditorStyle.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Json\Public\Json.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\JsonGlobals.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Policies/CondensedJsonPrintPolicy.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Serialization/JsonTypes.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Dom/JsonValue.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Dom/JsonObject.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Serialization/JsonReader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Serialization/JsonWriter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Serialization/JsonSerializer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\json\public\Serialization/JsonSerializerMacros.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\SlateOptMacros.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/PlatformTextField.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/GenericPlatformTextField.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Application/IPlatformTextField.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Application/NavigationConfig.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/SWeakWidget.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/TextHitPoint.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/IRunRenderer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ILineHighlighter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ILayoutBlock.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/DefaultLayoutBlock.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/WidgetLayoutBlock.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ISlateRun.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ISlateRunRenderer.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ISlateLineHighlighter.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateTextLayout.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateTextRun.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateHyperlinkRun.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateImageRun.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateWidgetRun.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/TextLayoutEngine.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SFxWidget.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SSeparator.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SWrapBox.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Images/SSpinningImage.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Notifications/SProgressBar.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/SCanvas.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/ITextDecorator.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/TextDecorators.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Framework/Text/SlateTextLayoutFactory.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Text/SRichTextBlock.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SHeader.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SGridPanel.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SUniformGridPanel.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Text/SMultiLineEditableText.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Input/SMultiLineEditableTextBox.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SScrollBarTrack.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SScrollBorder.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Notifications/SErrorHint.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Notifications/SPopUpErrorText.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Views/STileView.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Layout/SScrollBox.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/SViewport.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Colors/SColorBlock.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Input/SSpinBox.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
+e:\applications\unreal engine\ue_4.23\engine\source\runtime\slate\public\Widgets/Input/SComboBox.h
+e:\applications\unreal engine\ue_4.23\engine\source\editor\editorstyle\public\Interfaces/IEditorStyleModule.h
+e:\applications\unreal engine\ue_4.23\engine\source\editor\editorstyle\public\Classes/EditorStyleSettings.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle\EditorStyleSettings.generated.h
+e:\applications\unreal engine\ue_4.23\engine\source\editor\editorstyle\public\EditorFontGlyphs.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\PythonConsole\Public\PythonConsoleModule.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythonconsole\private\SPythonLog.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime/Slate/Public/Framework/Text/BaseTextLayoutMarshaller.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextLayoutMarshaller.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime/Core/Public/Misc/TextFilterExpressionEvaluator.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Source\UnrealEnginePython\Public\UnrealEnginePython.h
+C:\Users\japan\AppData\Local\Programs\Python\Python36\include/pyconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_io.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\basetsd.h
+C:\Users\japan\AppData\Local\Programs\Python\Python36\include/Python.h
+c:\users\japan\appdata\local\programs\python\python36\include\patchlevel.h
+c:\users\japan\appdata\local\programs\python\python36\include\pymacconfig.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyport.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\inttypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\time.h
+c:\users\japan\appdata\local\programs\python\python36\include\pymacro.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyatomic.h
+c:\users\japan\appdata\local\programs\python\python36\include\pymath.h
+c:\users\japan\appdata\local\programs\python\python36\include\pytime.h
+c:\users\japan\appdata\local\programs\python\python36\include\object.h
+c:\users\japan\appdata\local\programs\python\python36\include\pymem.h
+c:\users\japan\appdata\local\programs\python\python36\include\objimpl.h
+c:\users\japan\appdata\local\programs\python\python36\include\typeslots.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyhash.h
+c:\users\japan\appdata\local\programs\python\python36\include\pydebug.h
+c:\users\japan\appdata\local\programs\python\python36\include\bytearrayobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\bytesobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\unicodeobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\longobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\longintrepr.h
+c:\users\japan\appdata\local\programs\python\python36\include\boolobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\floatobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\complexobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\rangeobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\memoryobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\tupleobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\listobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\dictobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\odictobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\enumobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\setobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\methodobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\moduleobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\funcobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\classobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\fileobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\pycapsule.h
+c:\users\japan\appdata\local\programs\python\python36\include\traceback.h
+c:\users\japan\appdata\local\programs\python\python36\include\pystate.h
+c:\users\japan\appdata\local\programs\python\python36\include\sliceobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\cellobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\iterobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\genobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\descrobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\warnings.h
+c:\users\japan\appdata\local\programs\python\python36\include\weakrefobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\structseq.h
+c:\users\japan\appdata\local\programs\python\python36\include\namespaceobject.h
+c:\users\japan\appdata\local\programs\python\python36\include\codecs.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyerrors.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyarena.h
+c:\users\japan\appdata\local\programs\python\python36\include\modsupport.h
+c:\users\japan\appdata\local\programs\python\python36\include\pythonrun.h
+c:\users\japan\appdata\local\programs\python\python36\include\pylifecycle.h
+c:\users\japan\appdata\local\programs\python\python36\include\ceval.h
+c:\users\japan\appdata\local\programs\python\python36\include\sysmodule.h
+c:\users\japan\appdata\local\programs\python\python36\include\osmodule.h
+c:\users\japan\appdata\local\programs\python\python36\include\intrcheck.h
+c:\users\japan\appdata\local\programs\python\python36\include\import.h
+c:\users\japan\appdata\local\programs\python\python36\include\abstract.h
+c:\users\japan\appdata\local\programs\python\python36\include\bltinmodule.h
+c:\users\japan\appdata\local\programs\python\python36\include\compile.h
+c:\users\japan\appdata\local\programs\python\python36\include\code.h
+c:\users\japan\appdata\local\programs\python\python36\include\eval.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyctype.h
+c:\users\japan\appdata\local\programs\python\python36\include\pystrtod.h
+c:\users\japan\appdata\local\programs\python\python36\include\pystrcmp.h
+c:\users\japan\appdata\local\programs\python\python36\include\dtoa.h
+c:\users\japan\appdata\local\programs\python\python36\include\fileutils.h
+c:\users\japan\appdata\local\programs\python\python36\include\pyfpe.h
+C:\Users\japan\AppData\Local\Programs\Python\Python36\include/structmember.h

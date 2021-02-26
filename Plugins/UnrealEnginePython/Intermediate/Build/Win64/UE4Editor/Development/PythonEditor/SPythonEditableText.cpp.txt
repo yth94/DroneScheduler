@@ -1,0 +1,11 @@
+E:\Documents\Unreal Projects\DroneScheduler\Plugins\UnrealEnginePython\Intermediate\Build\Win64\UE4Editor\Development\PythonEditor\Definitions.PythonEditor.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\SPythonEditableText.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime/Slate/Public/Widgets/Text/SMultiLineEditableText.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayoutFactory.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateTextLayout.h
+e:\documents\unreal projects\dronescheduler\plugins\unrealenginepython\source\pythoneditor\private\PythonEditorStyle.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime/SlateCore/Public/Styling/SlateStyle.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\Applications\Unreal Engine\UE_4.23\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
