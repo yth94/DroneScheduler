@@ -1,0 +1,7 @@
+jsonFile: 
+Height: 7500
+MaxRadius: 30000
+AircraftSpeed: 5000
+AircraftScale: 5.0
+MaxNumAircrafts: 100
+MaxNumAircraftLaunch: 3
